@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"asteroids.game","c":"Asteroids","l":"Asteroids()"},{"p":"asteroids.game","c":"Asteroids","l":"chooseVersion()"},{"p":"asteroids.game","c":"Asteroids","l":"main(String[])","url":"main-java.lang.String:A-"}]
