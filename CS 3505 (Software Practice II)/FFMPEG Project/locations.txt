@@ -1,0 +1,3 @@
+ffmpeg/libavcodec/bmp.c
+ffmpeg/libavformat/pcmdec.c
+ffmpeg/livavformat/wavdec.c
